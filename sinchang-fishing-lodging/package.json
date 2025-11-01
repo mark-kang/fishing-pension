@@ -1,0 +1,33 @@
+{
+  "name": "sinchang-fishing-lodging",
+  "version": "1.0.0",
+  "description": "A responsive website for a lodging service catering to fishermen in Sinchang Windmill Village, Jeju Island.",
+  "main": "src/main.tsx",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-router-dom": "^6.0.0",
+    "axios": "^0.21.1",
+    "tailwindcss": "^2.2.19"
+  },
+  "devDependencies": {
+    "typescript": "^4.5.4",
+    "vite": "^2.6.4",
+    "postcss": "^8.4.5",
+    "autoprefixer": "^10.4.2"
+  },
+  "keywords": [
+    "fishing",
+    "lodging",
+    "jeju",
+    "responsive",
+    "website"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
